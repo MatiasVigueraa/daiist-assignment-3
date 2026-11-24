@@ -203,6 +203,7 @@ class Assistant:
             "citations": [retrieved[c] for c in check["cited"] if c in retrieved] if check["ok"] else [],
             "refusal": check["refusal"] if check["ok"] else True,
             "retrieved": [label for label, _ in retrieved.values()],
+            "evidence": [str(m.content) for m in messages if isinstance(m, ToolMessage) and m.name == "search"],
             "tool_calls": tool_calls(messages),
             "approvals": approvals,
             "guardrail": guardrail,
