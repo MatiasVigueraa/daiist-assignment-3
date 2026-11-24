@@ -45,7 +45,22 @@ Questions answered: 32 of 32.
 
 ## Agreement with your grades
 
-No grades yet in eval/human_labels.csv.
+You graded 27 answers; 27 of them were graded by the judge.
+
+| | All your grades | Judge-graded only |
+|---|---|---|
+| Correct | 89% | 89% |
+| Supported | 78% | 78% |
+
+- q03 supported: you 0, judge 1. It gets the coin right, but 'all archaeological items' is too broad. Article 44(5) makes an exception for parts of a registered historic building.
+- q04 supported: you 0, judge 1. Article 45 says who chooses the museum. The details about distance and conservation are in Article 42(2), which the answer didn't cite.
+- q05 supported: you 0, judge 1. The fine is right. Article 76 only treats the excavation as an administrative offence if it isn't a crime.
+- q14 supported: you 0, judge 1. Rule 1 allows a lift that fits with protection and significantly improves protection, knowledge or appreciation. It doesn't say a lift must be necessary for research or permanent protection.
+- q20 correct: you 0, judge 1. It covers humanity and the states of cultural, historical or archaeological origin. It leaves out the country of origin as a separate basis for a claim.
+- q22 supported: you 0, judge 1. Article 42 covers permission. The definition that makes mapping without disturbing the seabed a survey comes from Article 41, which the answer didn't cite.
+- q23 supported: you 0, judge 1. The timing is right for this private boat, but the answer says 'any shipwreck'. Article 374 excludes state vessels.
+- q25 correct: you 0, judge 1. It gives the right distance and says approval can be required. It leaves out the duty to apply the annex rules when the country regulates the work.
+- q27 correct: you 0, judge 1. It says Spain can decline to lead but leaves out who then chooses the coordinator: the other states parties that declared an interest.
 
 ## Failures by suggested cause (check each one yourself)
 
